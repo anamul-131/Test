@@ -3,7 +3,10 @@ This is my first Repository
 <br>
 Author - Anamul Haque
 
+
+
 #include <stdio.h>
+
 int main() {
 
     int marks[5];
